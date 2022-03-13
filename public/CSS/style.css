@@ -34,7 +34,7 @@ header {
     justify-content: space-between;
 }
 
-.logo p {
+.logo span {
     height: 22px;
     width: 1px;
     background-color: #DBDBDB;
